@@ -17,3 +17,4 @@ Economics, South Eastern Kenya University (2022).
 
 📄 Full paper: `research_paper.pdf`
 
+https://github.com/onchukitech91/academic-research/blob/db18f793862d25302bd3fd728a7bae4ce76e5486/ONCHUKI%20PROJECT.pdf
